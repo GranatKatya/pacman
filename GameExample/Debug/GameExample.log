@@ -1,0 +1,8 @@
+﻿  Game.cpp
+d:\флэшка\ооп\дз\выдано\20.07.2018exsamenation work\gameexample\gameexample\game.cpp(26): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+d:\флэшка\ооп\дз\выдано\20.07.2018exsamenation work\gameexample\gameexample\game.cpp(47): warning C4018: '<': signed/unsigned mismatch
+d:\флэшка\ооп\дз\выдано\20.07.2018exsamenation work\gameexample\gameexample\game.cpp(62): warning C4018: '<': signed/unsigned mismatch
+d:\флэшка\ооп\дз\выдано\20.07.2018exsamenation work\gameexample\gameexample\game.cpp(117): warning C4018: '<': signed/unsigned mismatch
+d:\флэшка\ооп\дз\выдано\20.07.2018exsamenation work\gameexample\gameexample\game.cpp(141): warning C4018: '<': signed/unsigned mismatch
+d:\флэшка\ооп\дз\выдано\20.07.2018exsamenation work\gameexample\gameexample\game.cpp(297): warning C4018: '<': signed/unsigned mismatch
+  GameExample.vcxproj -> D:\Флэшка\ООП\дз\Выдано\20.07.2018Exsamenation Work\GameExample\Debug\GameExample.exe
